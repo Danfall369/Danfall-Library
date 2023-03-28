@@ -61,7 +61,9 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- https://danfall369.github.io/Danfall-Library/
+- N-A
+
+<p>Note: to deploy this site, I recommend cloning the repository and opening it from a live server with an editor such as Visual Studio Code </p>
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
